@@ -3,7 +3,6 @@
 
 - 🌱 Estou aprendendo **React**
 
-- 📝 Eu escrevo regularmente artigos sobre [https://ragnatela.com.br/blog/](https://ragnatela.com.br/blog/)
 
 - 💬 Pergunte-me sobre **Frameworks, Redes de Computadores, Cloud.**
 
