@@ -10,7 +10,7 @@
 
 <h1 align="center"></h1>
 
-<img align="right" height="150" src="https://i.postimg.cc/DzKZXNnv/Whats-App-Image-2024-12-11-at-08-resized.jpg"  />
+
 
 ###
 
