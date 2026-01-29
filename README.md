@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Daniele</h1>
 <h3 align="center">Com uma formação sólida em Ciência da Computação. Minha abordagem metódica e minha capacidade de resolver problemas me ajudaram a desenvolver soluções eficientes.</h3>
 
-- 🌱 Estou aprendendo **React**
-
-
-- 💬 Pergunte-me sobre **Frameworks, Redes de Computadores, Cloud.**
-
+### 🚀 Sobre mim
+- 🎓 Formação em **Ciência da Computação**
+- 🧠 Perfil analítico, foco em resolução de problemas
+- 🌱 Atualmente aprendendo **React** e aprofundando em **TypeScript**
+- 💬 Posso ajudar com **Frameworks, Redes de Computadores e Cloud Computing**
 - 📫 Como chegar em mim **daniele.araujo.dj@gmail.com**
 
 <h1 align="center"></h1>
